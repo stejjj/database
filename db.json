@@ -1,3 +1,18 @@
-"id" : 1,
-"name" : "alex",
-"age" : 26
+{
+"Product list" :
+  [
+    {
+      "ID" : 1,
+      "Product name" : "Phone",
+      "Quantity" : 3,
+      "Price" : 300
+    },
+    
+    {
+      "ID" : 2,
+      "Product name" : "Laptop",
+      "Quantity" : 2,
+      "Price" : 200
+    }
+  ]
+}
